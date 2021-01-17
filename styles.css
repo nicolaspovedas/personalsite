@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://thumbs4.properati.com/0/Eeh5zakC1nyM2JMbzvDJ1OBJqYM=/trim/fit-in/0x0/smart/filters:strip_icc()/https://properati-s3-co.s3-us-west-2.amazonaws.com/temp-developments-editor-60b33bde-daa9-459b-a3a2-6ba08779dfa7-b0e82bb3c0f6fecbbb5d3ebef46701ad.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+}
+.tarjeta {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.tarjeta img {
+    height: 200px;
+    width: auto;
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: whitesmoke;
+}
+
+.tarjeta h1 {
+    color: whitesmoke;
+}
+
+.tarjeta p {
+    color: whitesmoke;
+}
